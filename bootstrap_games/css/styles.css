@@ -1,0 +1,7 @@
+.color-accent{
+	background-color: rgb(255, 127, 80)!important; 
+	color: white!important;
+}
+button.color-accent{
+	width: 37%;
+}
